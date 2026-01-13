@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\bin\Debug\net10.0\ThirdApp.exe
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\bin\Debug\net10.0\ThirdApp.deps.json
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\bin\Debug\net10.0\ThirdApp.runtimeconfig.json
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\bin\Debug\net10.0\ThirdApp.dll
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\bin\Debug\net10.0\ThirdApp.pdb
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\ThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\ThirdApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\ThirdApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\ThirdApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\ThirdApp.dll
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\refint\ThirdApp.dll
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\ThirdApp.pdb
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\ThirdApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\visual-programming\ThirdApp\obj\Debug\net10.0\ref\ThirdApp.dll

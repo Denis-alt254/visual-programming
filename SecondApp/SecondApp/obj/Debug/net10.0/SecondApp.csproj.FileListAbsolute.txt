@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\bin\Debug\net10.0\SecondApp.exe
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\bin\Debug\net10.0\SecondApp.deps.json
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\bin\Debug\net10.0\SecondApp.runtimeconfig.json
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\bin\Debug\net10.0\SecondApp.dll
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\bin\Debug\net10.0\SecondApp.pdb
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\SecondApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\SecondApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\SecondApp.dll
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\refint\SecondApp.dll
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\SecondApp.pdb
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\SecondApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\visual-programming\SecondApp\SecondApp\obj\Debug\net10.0\ref\SecondApp.dll
