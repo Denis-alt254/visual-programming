@@ -1,18 +1,15 @@
-using MySql.Data.MySqlClient;
+using Microsoft.Data.SqlClient;
 
 namespace StudentFormApp
 {
     public class DbConnection
     {
-        public static MySqlConnection GetConnection()
+        public static SqlConnection GetConnection()
         {
-            string connStr =
-                "server=localhost;" +
-                "user=root;" +
-                "password=Deno8758@!;" +
-                "database=schooldb;";
+            string connStr = @"Server=.\SQLEXPRESS;Database=SchoolDB;Trusted_Connection=True;TrustServerCertificate=True";
 
-            return new MySqlConnection(connStr);
+
+            return new SqlConnection(connStr);
         }
     }
 }

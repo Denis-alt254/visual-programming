@@ -1,6 +1,6 @@
 using System;
 using System.Windows.Forms;
-using MySql.Data.MySqlClient;
+using Microsoft.Data.SqlClient;
 
 
 namespace StudentFormApp
@@ -61,7 +61,7 @@ namespace StudentFormApp
                 return;
             }
 
-            using (MySqlConnection conn = DbConnection.GetConnection())
+            using (SqlConnection conn = DbConnection.GetConnection())
             {
                 try
                 {
@@ -70,7 +70,7 @@ namespace StudentFormApp
                     string query = @"INSERT INTO students(name, reg_no, course, age)
                                     VALUES (@name, @reg, @course, @age)";
 
-                    using (MySqlCommand cmd = new MySqlCommand(query, conn))
+                    using (SqlCommand cmd = new SqlCommand(query, conn))
                     {
                         cmd.Parameters.AddWithValue("@name", txtName.Text);
                         cmd.Parameters.AddWithValue("@reg", txtRegNo.Text);
