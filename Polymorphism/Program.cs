@@ -1,4 +1,5 @@
-﻿class Animal
+﻿use System;
+class Animal
 {
     public virtual void Sound()
     {
