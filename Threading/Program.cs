@@ -16,10 +16,17 @@ class Program
         await Task.Delay(2000);
         Console.WriteLine("Task 2 finished");
     }
+    
+    static async Task Task3()
+    {
+        Console.WriteLine("Task 3 started.");
+        await Task.Delay(1000);
+        Console.WriteLine("Task 3 finished");
+    }
 
     static async Task Main(string [] args)
     {
-        await Task.WhenAll(Task1(), Task2());
+        await Task.WhenAll(Task1(), Task2(), Task3());
         Console.WriteLine("All Tasks done");
     }
 }
